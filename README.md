@@ -4,4 +4,4 @@ The Widget changes colour based on your Karma Trend <br/>
 <br/>
 Modify jobs/todoist.rb to add your API token<br/>
 <br/>
-![Screenshot](http://squeekobenelli.github.io/images/todoist_widget.png)
+![Screenshot](https://raw.githubusercontent.com/squeekobenelli/squeekobenelli.github.io/master/images/todoist_widget.png)
